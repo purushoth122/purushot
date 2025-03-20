@@ -1,5 +1,5 @@
-NAME: SARATH.A
-DOB:29/05/2006
+NAME: purushoth
+DOB:08/03/2004
 GENDER: Male
 NATIONALITY: Indian
 LANGUAGE KNOW: Tamil,English
@@ -10,4 +10,3 @@ HOBBIES: Playing video games
 		And a partime code analyzer 
 ADDRESS:65/1,madurai samy madam ,
 		Chennai:600011
-CONTACT: sarathvinayaga11@gmail.com
