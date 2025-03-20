@@ -1,0 +1,13 @@
+NAME: SARATH.A
+DOB:29/05/2006
+GENDER: Male
+NATIONALITY: Indian
+LANGUAGE KNOW: Tamil,English
+DEGREE: BCA
+QUALIFICATIONS: Higher Secondary
+HOBBIES: Playing video games
+		Listing song
+		And a partime code analyzer 
+ADDRESS:65/1,madurai samy madam ,
+		Chennai:600011
+CONTACT: sarathvinayaga11@gmail.com
